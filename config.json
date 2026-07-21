@@ -1,0 +1,29 @@
+{
+  "icons": [
+    "c",
+    "cs",
+    "cpp",
+    "css",
+    "git",
+    "github",
+    "html",
+    "java",
+    "js",
+    "mysql",
+    "postgres",
+    "sqlite",
+    "php",
+    "python",
+    "rust",
+    "visualstudio",
+    "vscode"
+  ],
+  "align": "center",
+  "theme": "auto",
+  "perLine": 6,
+  "gapX": 24,
+  "gapY": 24,
+  "marginX": 24,
+  "marginY": 24,
+  "iconSize": 64
+}
