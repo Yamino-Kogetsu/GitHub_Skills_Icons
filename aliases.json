@@ -1,0 +1,23 @@
+{
+  "cs": ["csharp", "cs"],
+  "postgres": ["postgresql", "postgres"],
+  "postgresql": ["postgresql", "postgres"],
+  "gh": ["github"],
+  "gha": ["githubactions"],
+  "vs": ["visualstudio"],
+  "vscode": ["vscode"],
+  "js": ["javascript", "js"],
+  "ts": ["typescript", "ts"],
+  "py": ["python", "py"],
+  "rb": ["ruby", "rb"],
+  "mysql": ["mysql"],
+  "sqlite": ["sqlite"],
+  "php": ["php"],
+  "rust": ["rust"],
+  "html": ["html"],
+  "css": ["css"],
+  "git": ["git"],
+  "c": ["c"],
+  "cpp": ["cpp"],
+  "cplusplus": ["cpp"]
+}
