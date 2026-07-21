@@ -1,0 +1,324 @@
+{
+  "version": 6,
+  "generatedAt": "deterministic",
+  "iconsDir": "icons",
+  "families": [
+    {
+      "key": "c",
+      "files": {
+        "base": "c.svg"
+      },
+      "sourceFiles": [
+        "c.svg"
+      ]
+    },
+    {
+      "key": "cpp",
+      "files": {
+        "base": "cpp.svg"
+      },
+      "sourceFiles": [
+        "cpp.svg"
+      ]
+    },
+    {
+      "key": "cs",
+      "files": {
+        "base": "cs.svg"
+      },
+      "sourceFiles": [
+        "cs.svg"
+      ]
+    },
+    {
+      "key": "csharp",
+      "files": {
+        "base": "csharp.svg"
+      },
+      "sourceFiles": [
+        "csharp.svg"
+      ]
+    },
+    {
+      "key": "css",
+      "files": {
+        "base": "css.svg"
+      },
+      "sourceFiles": [
+        "css.svg"
+      ]
+    },
+    {
+      "key": "git",
+      "files": {
+        "base": "git.svg"
+      },
+      "sourceFiles": [
+        "git.svg"
+      ]
+    },
+    {
+      "key": "github",
+      "files": {
+        "dark": "github-dark.svg",
+        "light": "github-light.svg",
+        "base": "github.svg"
+      },
+      "sourceFiles": [
+        "github-dark.svg",
+        "github-light.svg",
+        "github.svg"
+      ]
+    },
+    {
+      "key": "html",
+      "files": {
+        "base": "html.svg"
+      },
+      "sourceFiles": [
+        "html.svg"
+      ]
+    },
+    {
+      "key": "java",
+      "files": {
+        "base": "java.svg"
+      },
+      "sourceFiles": [
+        "java.svg"
+      ]
+    },
+    {
+      "key": "javascript",
+      "files": {
+        "dark": "javascript-dark.svg",
+        "light": "javascript-light.svg",
+        "base": "javascript.svg"
+      },
+      "sourceFiles": [
+        "javascript-dark.svg",
+        "javascript-light.svg",
+        "javascript.svg"
+      ]
+    },
+    {
+      "key": "js",
+      "files": {
+        "base": "js.svg"
+      },
+      "sourceFiles": [
+        "js.svg"
+      ]
+    },
+    {
+      "key": "mysql",
+      "files": {
+        "base": "mysql.svg"
+      },
+      "sourceFiles": [
+        "mysql.svg"
+      ]
+    },
+    {
+      "key": "php",
+      "files": {
+        "base": "php.svg"
+      },
+      "sourceFiles": [
+        "php.svg"
+      ]
+    },
+    {
+      "key": "postgres",
+      "files": {
+        "base": "postgres.svg"
+      },
+      "sourceFiles": [
+        "postgres.svg"
+      ]
+    },
+    {
+      "key": "postgresql",
+      "files": {
+        "base": "postgresql.svg"
+      },
+      "sourceFiles": [
+        "postgresql.svg"
+      ]
+    },
+    {
+      "key": "python",
+      "files": {
+        "base": "python.svg"
+      },
+      "sourceFiles": [
+        "python.svg"
+      ]
+    },
+    {
+      "key": "rust",
+      "files": {
+        "base": "rust.svg"
+      },
+      "sourceFiles": [
+        "rust.svg"
+      ]
+    },
+    {
+      "key": "sqlite",
+      "files": {
+        "base": "sqlite.svg"
+      },
+      "sourceFiles": [
+        "sqlite.svg"
+      ]
+    },
+    {
+      "key": "typescript",
+      "files": {
+        "base": "typescript.svg"
+      },
+      "sourceFiles": [
+        "typescript.svg"
+      ]
+    },
+    {
+      "key": "visualstudio",
+      "files": {
+        "base": "visualstudio.svg"
+      },
+      "sourceFiles": [
+        "visualstudio.svg"
+      ]
+    },
+    {
+      "key": "vscode",
+      "files": {
+        "base": "vscode.svg"
+      },
+      "sourceFiles": [
+        "vscode.svg"
+      ]
+    }
+  ],
+  "aliases": {
+    "c": [
+      "c"
+    ],
+    "cpp": [
+      "cpp"
+    ],
+    "cs": [
+      "cs",
+      "csharp"
+    ],
+    "csharp": [
+      "csharp"
+    ],
+    "css": [
+      "css"
+    ],
+    "git": [
+      "git"
+    ],
+    "github": [
+      "github"
+    ],
+    "html": [
+      "html"
+    ],
+    "java": [
+      "java"
+    ],
+    "javascript": [
+      "javascript"
+    ],
+    "js": [
+      "js",
+      "javascript"
+    ],
+    "mysql": [
+      "mysql"
+    ],
+    "php": [
+      "php"
+    ],
+    "postgres": [
+      "postgres",
+      "postgresql"
+    ],
+    "postgresql": [
+      "postgresql",
+      "postgres"
+    ],
+    "python": [
+      "python"
+    ],
+    "rust": [
+      "rust"
+    ],
+    "sqlite": [
+      "sqlite"
+    ],
+    "typescript": [
+      "typescript"
+    ],
+    "visualstudio": [
+      "visualstudio"
+    ],
+    "vscode": [
+      "vscode"
+    ],
+    "gh": [
+      "github"
+    ],
+    "gha": [
+      "githubactions"
+    ],
+    "vs": [
+      "visualstudio"
+    ],
+    "ts": [
+      "typescript",
+      "ts"
+    ],
+    "py": [
+      "python",
+      "py"
+    ],
+    "rb": [
+      "ruby",
+      "rb"
+    ],
+    "cplusplus": [
+      "cpp"
+    ]
+  },
+  "files": [
+    "c.svg",
+    "cpp.svg",
+    "cs.svg",
+    "csharp.svg",
+    "css.svg",
+    "git.svg",
+    "github-dark.svg",
+    "github-light.svg",
+    "github.svg",
+    "html.svg",
+    "java.svg",
+    "javascript-dark.svg",
+    "javascript-light.svg",
+    "javascript.svg",
+    "js.svg",
+    "mysql.svg",
+    "php.svg",
+    "postgres.svg",
+    "postgresql.svg",
+    "python.svg",
+    "rust.svg",
+    "sqlite.svg",
+    "typescript.svg",
+    "visualstudio.svg",
+    "vscode.svg"
+  ]
+}
