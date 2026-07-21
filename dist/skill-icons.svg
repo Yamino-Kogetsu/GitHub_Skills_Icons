@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="552" height="288" viewBox="0 0 552 288" role="img" aria-label="skill icons">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="24" y="24" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="c_0_0_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1f4eff"/>
+      <stop offset="100%" stop-color="#0b1237"/>
+    </linearGradient>
+    <clipPath id="c_0_0_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#c_0_0_1)">
+    <rect width="24" height="24" rx="6" fill="url(#c_0_0_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">C</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="112" y="24" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="cs_1_1_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#68217A"/>
+      <stop offset="100%" stop-color="#260a2d"/>
+    </linearGradient>
+    <clipPath id="cs_1_1_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#cs_1_1_1)">
+    <rect width="24" height="24" rx="6" fill="url(#cs_1_1_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">C#</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="200" y="24" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="cpp_2_2_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00599C"/>
+      <stop offset="100%" stop-color="#03253d"/>
+    </linearGradient>
+    <clipPath id="cpp_2_2_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#cpp_2_2_1)">
+    <rect width="24" height="24" rx="6" fill="url(#cpp_2_2_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">C++</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="288" y="24" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="css_3_3_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#264de4"/>
+      <stop offset="100%" stop-color="#10205f"/>
+    </linearGradient>
+    <clipPath id="css_3_3_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#css_3_3_1)">
+    <rect width="24" height="24" rx="6" fill="url(#css_3_3_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">CSS</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="376" y="24" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="git_4_4_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f05032"/>
+      <stop offset="100%" stop-color="#4b0f08"/>
+    </linearGradient>
+    <clipPath id="git_4_4_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#git_4_4_1)">
+    <rect width="24" height="24" rx="6" fill="url(#git_4_4_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">G</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="464" y="24" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="github_5_5_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#24292e"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <clipPath id="github_5_5_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#github_5_5_1)">
+    <rect width="24" height="24" rx="6" fill="url(#github_5_5_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">GH</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="24" y="112" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="html_6_6_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#e34f26"/>
+      <stop offset="100%" stop-color="#5a1505"/>
+    </linearGradient>
+    <clipPath id="html_6_6_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#html_6_6_1)">
+    <rect width="24" height="24" rx="6" fill="url(#html_6_6_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">H</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="112" y="112" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="java_7_7_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ed8b00"/>
+      <stop offset="100%" stop-color="#5d3700"/>
+    </linearGradient>
+    <clipPath id="java_7_7_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#java_7_7_1)">
+    <rect width="24" height="24" rx="6" fill="url(#java_7_7_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">J</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="200" y="112" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="js_8_8_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f7df1e"/>
+      <stop offset="100%" stop-color="#776a00"/>
+    </linearGradient>
+    <clipPath id="js_8_8_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#js_8_8_1)">
+    <rect width="24" height="24" rx="6" fill="url(#js_8_8_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#111111" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">JS</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="288" y="112" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="mysql_9_9_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4479a1"/>
+      <stop offset="100%" stop-color="#1f3355"/>
+    </linearGradient>
+    <clipPath id="mysql_9_9_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#mysql_9_9_1)">
+    <rect width="24" height="24" rx="6" fill="url(#mysql_9_9_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">M</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="376" y="112" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="postgres_10_10_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#336791"/>
+      <stop offset="100%" stop-color="#132d4b"/>
+    </linearGradient>
+    <clipPath id="postgres_10_10_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#postgres_10_10_1)">
+    <rect width="24" height="24" rx="6" fill="url(#postgres_10_10_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">P</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="464" y="112" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="sqlite_11_11_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#003b57"/>
+      <stop offset="100%" stop-color="#00111b"/>
+    </linearGradient>
+    <clipPath id="sqlite_11_11_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#sqlite_11_11_1)">
+    <rect width="24" height="24" rx="6" fill="url(#sqlite_11_11_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">S</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="68" y="200" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="php_12_12_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#777bb4"/>
+      <stop offset="100%" stop-color="#30334e"/>
+    </linearGradient>
+    <clipPath id="php_12_12_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#php_12_12_1)">
+    <rect width="24" height="24" rx="6" fill="url(#php_12_12_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">PHP</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="156" y="200" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="python_13_13_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3776ab"/>
+      <stop offset="100%" stop-color="#14324b"/>
+    </linearGradient>
+    <clipPath id="python_13_13_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#python_13_13_1)">
+    <rect width="24" height="24" rx="6" fill="url(#python_13_13_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">Py</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="244" y="200" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="rust_14_14_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#dea584"/>
+      <stop offset="100%" stop-color="#5a3320"/>
+    </linearGradient>
+    <clipPath id="rust_14_14_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#rust_14_14_1)">
+    <rect width="24" height="24" rx="6" fill="url(#rust_14_14_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#111111" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">R</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="332" y="200" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="visualstudio_15_15_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#5c2d91"/>
+      <stop offset="100%" stop-color="#24123b"/>
+    </linearGradient>
+    <clipPath id="visualstudio_15_15_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#visualstudio_15_15_1)">
+    <rect width="24" height="24" rx="6" fill="url(#visualstudio_15_15_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">VS</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="420" y="200" width="64" height="64" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" fill="none">
+  <defs>
+    <linearGradient id="vscode_16_16_0" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#007acc"/>
+      <stop offset="100%" stop-color="#00304f"/>
+    </linearGradient>
+    <clipPath id="vscode_16_16_1">
+      <rect width="24" height="24" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#vscode_16_16_1)">
+    <rect width="24" height="24" rx="6" fill="url(#vscode_16_16_0)"/>
+    <circle cx="18" cy="6" r="3" fill="#ffffff" opacity="0.9"/>
+    <text x="12" y="15.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="7.2" font-weight="700" fill="#ffffff">VS</text>
+  </g>
+</svg>
+</svg>
