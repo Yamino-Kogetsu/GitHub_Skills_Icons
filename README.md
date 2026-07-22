@@ -1,4 +1,4 @@
-# Skill Icons GH Actions V6
+# Skill Icons GitHub Actions
 
 A clean-room rebuild that runs entirely in GitHub Actions.
 
